@@ -1,24 +1,26 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
 
 import React from 'react';
 import { Provider } from 'react-redux';
 import store from './src/Store/Store';
 import {
   ScrollView,
+  StatusBar,
   StyleSheet,
   Text,
   useColorScheme,
   View,
 } from 'react-native';
+import { ActivityIndicator } from "react-native";
 
+import AppNavigator from "@navigation/AppNavigator";
+import Fonts from "@constants/Fonts";
 import {
   Colors
 } from 'react-native/Libraries/NewAppScreen';
+import { DefaultTheme, NavigationContainer } from '@react-navigation/native';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+import ThemeManager from '@themes';
+import DrawerMenu from '@navigation/DrawerMenu';
 
 
 
@@ -33,15 +35,11 @@ function App(): React.JSX.Element {
 
   return (
     <Provider store={store}>
-      <View style={backgroundStyle}>
+      <ThemeManager>
+        <StatusBar barStyle="dark-content" />
+        <AppNavigator />
+      </ThemeManager>
 
-        <ScrollView
-          style={backgroundStyle}>
-          <View style={styles.corps}>
-            <Text>Bienvenue sur Eureka</Text>
-          </View>
-        </ScrollView>
-      </View>
     </Provider>
 
   );

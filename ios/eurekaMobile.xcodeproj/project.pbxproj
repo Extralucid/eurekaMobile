@@ -11,6 +11,51 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		B132898EA321472184ACA29C /* avenir-next-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E44FC8ABEB534B4D84936D87 /* avenir-next-bold.ttf */; };
+		9D86A3EDD64B453DAC208E8A /* avenir-next-demi.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4459CF556E140049D4A4CAA /* avenir-next-demi.ttf */; };
+		06F0878A459F48BC9AF3A565 /* avenir-next-medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2BD57FE06CC45CB89C02918 /* avenir-next-medium.ttf */; };
+		DA4E876CE7834B3BBD412B41 /* avenir-next-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 946933D7208D46E080F01389 /* avenir-next-regular.ttf */; };
+		6A85FDE7EA5D468A84FD1B24 /* GentiumBookBasic-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03662E1880C643A19C6776CF /* GentiumBookBasic-Italic.ttf */; };
+		9682FC94FB6C4BAEB3576531 /* GreatVibes-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7C5A5EA628954D9A91D3DC13 /* GreatVibes-Regular.ttf */; };
+		B68AF24173764197AA249352 /* Montserrat-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BFA00A8D5E0B4698BA83977D /* Montserrat-Italic.ttf */; };
+		0593CB8BD3F9457D85721E65 /* SpaceMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D3DF1250E4C84755AF6E7FA6 /* SpaceMono-Regular.ttf */; };
+		926580BB22CF4E4E84993372 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8013CE50697A4405A7860E71 /* Ubuntu-Medium.ttf */; };
+		3CFDABAA6D8D44EA98E4BDAD /* adaptive-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F43CFECD64E442E482B4158B /* adaptive-icon.png */; };
+		F38791FE33524F028E5BA0A4 /* favicon.png in Resources */ = {isa = PBXBuildFile; fileRef = CEBA7E44072A43B089208B70 /* favicon.png */; };
+		F919C7AFA7CA429B890E5C94 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 54F9A8A707F54DD0AFBABCA3 /* icon.png */; };
+		60D9D3FE2A84441F9F067936 /* avatar1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C031E542EC9400EA9C3D29B /* avatar1.png */; };
+		F534325AEEBF4D7C8ADBC65C /* avatar2.png in Resources */ = {isa = PBXBuildFile; fileRef = 05CAADF08C8649039A7698B2 /* avatar2.png */; };
+		62A89233CE35475790BA35DB /* avatar3.png in Resources */ = {isa = PBXBuildFile; fileRef = 445A371AB16548C0A27896D0 /* avatar3.png */; };
+		A8C1DF68A2B34D07AF087620 /* avatar4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7966D185E6C24954B178F881 /* avatar4.png */; };
+		7CDCE6238DB84DF9A5941167 /* cashback_offer.png in Resources */ = {isa = PBXBuildFile; fileRef = 6474657F887F4E9AB208EF2C /* cashback_offer.png */; };
+		5855364EC4164960BAF664B3 /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B7A1B90711847BDA6FE176E /* close.png */; };
+		9483EA0C97274AAEA96E0D3F /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = D1413CBC6ACF47DF8EAD78A7 /* cloud.png */; };
+		EFD9319FD5E64DCBADF43A34 /* color_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 564BC2E2F2164BB48497EAF7 /* color_bar.png */; };
+		472A1C105C7F44CAA4736829 /* electricity_bill.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E12D7CDFD2C43DDB9C45091 /* electricity_bill.png */; };
+		D1E969F8AF1A41CBA3B8F143 /* filter.png in Resources */ = {isa = PBXBuildFile; fileRef = 196B2247E9A048E18131AC6F /* filter.png */; };
+		0AEE8CAD254B430586560BDD /* flight_tickets.png in Resources */ = {isa = PBXBuildFile; fileRef = 3417DA5D67B04D2C82D8A492 /* flight_tickets.png */; };
+		0364DC92DDC646C3AE7557A3 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 686B681867F140A0BD6E96C1 /* home.png */; };
+		E9BC86A831EF4C2EA309337C /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 82D86DE2F7154D38AD8BDA2B /* logo.png */; };
+		B6280C9F9FC14C9C9EB1D576 /* logout.png in Resources */ = {isa = PBXBuildFile; fileRef = 51297AA768CB4206B5C04F90 /* logout.png */; };
+		648CF22BC6564A9B8923345B /* mobile_prepaid.png in Resources */ = {isa = PBXBuildFile; fileRef = 942C3D75997E47E484ADFEF1 /* mobile_prepaid.png */; };
+		510D1CAA90344F829440A008 /* more_options.png in Resources */ = {isa = PBXBuildFile; fileRef = 573275F0860542CEB5087532 /* more_options.png */; };
+		AE463A6435C04A5282089FE2 /* movie_tickets.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BAA356BB434471FBA825D6D /* movie_tickets.png */; };
+		71AAFE062B8B4D3D82B32188 /* musicoding.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C9E0C0DEE654A78B96B5F31 /* musicoding.png */; };
+		7E774996C2924306BBBEEBE5 /* partial-react-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 783610FCC8004661938D66C2 /* partial-react-logo.png */; };
+		1D13381B21554273B071E8C8 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = C4932BE31C8A4C23AA7DA17D /* plus.png */; };
+		38DA06B86CF8424080D80962 /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CCA5BF6DE8D4B4C84CA1D88 /* profile.png */; };
+		132E70B098744C99BD32643D /* react-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 91E1237E73B64D27B1FE51F8 /* react-logo.png */; };
+		752B8C454E4C414D8FB98EEC /* react-logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C104AA759A74930AB910716 /* react-logo@2x.png */; };
+		5CAC490F2820488D9A7D2901 /* react-logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1651312EB7584E7BBEAD8771 /* react-logo@3x.png */; };
+		D4274075521F4158A41A473F /* receive_money.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CA1CE991D6C4029AE398D65 /* receive_money.png */; };
+		F267F2538A414D51A9C240F1 /* right_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 561F3A86302D48C19C899414 /* right_arrow.png */; };
+		48153C9020F14A01987F2004 /* sanlam-allianz.png in Resources */ = {isa = PBXBuildFile; fileRef = CC21CD43A2CE4D10BA5CB7A6 /* sanlam-allianz.png */; };
+		769071686A784848B7F172EE /* sanlamallianz.png in Resources */ = {isa = PBXBuildFile; fileRef = 1D987C1824D14D5792F0AA38 /* sanlamallianz.png */; };
+		2CDEB04140E445A29BFD9288 /* scan.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EBA0EC9AC7447E4B0CCCD99 /* scan.png */; };
+		C8F80FE71D0E485EB1575220 /* send_money.png in Resources */ = {isa = PBXBuildFile; fileRef = CD90D3EE30794E149D007060 /* send_money.png */; };
+		9B3AA1B6A54B4F56AF9CA109 /* splash-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E08F5B0E69F046A28049FA44 /* splash-icon.png */; };
+		D27AAD8EEEE84C558770B642 /* union.png in Resources */ = {isa = PBXBuildFile; fileRef = DE120B2F89A545209FC4D0B6 /* union.png */; };
+		212D92157E72473F998DED85 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 157D5BB46233418EAAF579C3 /* splash.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +80,51 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = eurekaMobile/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = eurekaMobile/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		E44FC8ABEB534B4D84936D87 /* avenir-next-bold.ttf */ = {isa = PBXFileReference; name = "avenir-next-bold.ttf"; path = "../src/assets/fonts/avenir-next-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E4459CF556E140049D4A4CAA /* avenir-next-demi.ttf */ = {isa = PBXFileReference; name = "avenir-next-demi.ttf"; path = "../src/assets/fonts/avenir-next-demi.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A2BD57FE06CC45CB89C02918 /* avenir-next-medium.ttf */ = {isa = PBXFileReference; name = "avenir-next-medium.ttf"; path = "../src/assets/fonts/avenir-next-medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		946933D7208D46E080F01389 /* avenir-next-regular.ttf */ = {isa = PBXFileReference; name = "avenir-next-regular.ttf"; path = "../src/assets/fonts/avenir-next-regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		03662E1880C643A19C6776CF /* GentiumBookBasic-Italic.ttf */ = {isa = PBXFileReference; name = "GentiumBookBasic-Italic.ttf"; path = "../src/assets/fonts/GentiumBookBasic-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7C5A5EA628954D9A91D3DC13 /* GreatVibes-Regular.ttf */ = {isa = PBXFileReference; name = "GreatVibes-Regular.ttf"; path = "../src/assets/fonts/GreatVibes-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BFA00A8D5E0B4698BA83977D /* Montserrat-Italic.ttf */ = {isa = PBXFileReference; name = "Montserrat-Italic.ttf"; path = "../src/assets/fonts/Montserrat-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D3DF1250E4C84755AF6E7FA6 /* SpaceMono-Regular.ttf */ = {isa = PBXFileReference; name = "SpaceMono-Regular.ttf"; path = "../src/assets/fonts/SpaceMono-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8013CE50697A4405A7860E71 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; name = "Ubuntu-Medium.ttf"; path = "../src/assets/fonts/Ubuntu-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F43CFECD64E442E482B4158B /* adaptive-icon.png */ = {isa = PBXFileReference; name = "adaptive-icon.png"; path = "../src/assets/adaptive-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CEBA7E44072A43B089208B70 /* favicon.png */ = {isa = PBXFileReference; name = "favicon.png"; path = "../src/assets/favicon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		54F9A8A707F54DD0AFBABCA3 /* icon.png */ = {isa = PBXFileReference; name = "icon.png"; path = "../src/assets/icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4C031E542EC9400EA9C3D29B /* avatar1.png */ = {isa = PBXFileReference; name = "avatar1.png"; path = "../src/assets/images/avatar1.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		05CAADF08C8649039A7698B2 /* avatar2.png */ = {isa = PBXFileReference; name = "avatar2.png"; path = "../src/assets/images/avatar2.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		445A371AB16548C0A27896D0 /* avatar3.png */ = {isa = PBXFileReference; name = "avatar3.png"; path = "../src/assets/images/avatar3.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7966D185E6C24954B178F881 /* avatar4.png */ = {isa = PBXFileReference; name = "avatar4.png"; path = "../src/assets/images/avatar4.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6474657F887F4E9AB208EF2C /* cashback_offer.png */ = {isa = PBXFileReference; name = "cashback_offer.png"; path = "../src/assets/images/cashback_offer.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4B7A1B90711847BDA6FE176E /* close.png */ = {isa = PBXFileReference; name = "close.png"; path = "../src/assets/images/close.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D1413CBC6ACF47DF8EAD78A7 /* cloud.png */ = {isa = PBXFileReference; name = "cloud.png"; path = "../src/assets/images/cloud.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		564BC2E2F2164BB48497EAF7 /* color_bar.png */ = {isa = PBXFileReference; name = "color_bar.png"; path = "../src/assets/images/color_bar.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1E12D7CDFD2C43DDB9C45091 /* electricity_bill.png */ = {isa = PBXFileReference; name = "electricity_bill.png"; path = "../src/assets/images/electricity_bill.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		196B2247E9A048E18131AC6F /* filter.png */ = {isa = PBXFileReference; name = "filter.png"; path = "../src/assets/images/filter.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3417DA5D67B04D2C82D8A492 /* flight_tickets.png */ = {isa = PBXFileReference; name = "flight_tickets.png"; path = "../src/assets/images/flight_tickets.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		686B681867F140A0BD6E96C1 /* home.png */ = {isa = PBXFileReference; name = "home.png"; path = "../src/assets/images/home.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		82D86DE2F7154D38AD8BDA2B /* logo.png */ = {isa = PBXFileReference; name = "logo.png"; path = "../src/assets/images/logo.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		51297AA768CB4206B5C04F90 /* logout.png */ = {isa = PBXFileReference; name = "logout.png"; path = "../src/assets/images/logout.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		942C3D75997E47E484ADFEF1 /* mobile_prepaid.png */ = {isa = PBXFileReference; name = "mobile_prepaid.png"; path = "../src/assets/images/mobile_prepaid.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		573275F0860542CEB5087532 /* more_options.png */ = {isa = PBXFileReference; name = "more_options.png"; path = "../src/assets/images/more_options.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9BAA356BB434471FBA825D6D /* movie_tickets.png */ = {isa = PBXFileReference; name = "movie_tickets.png"; path = "../src/assets/images/movie_tickets.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4C9E0C0DEE654A78B96B5F31 /* musicoding.png */ = {isa = PBXFileReference; name = "musicoding.png"; path = "../src/assets/images/musicoding.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		783610FCC8004661938D66C2 /* partial-react-logo.png */ = {isa = PBXFileReference; name = "partial-react-logo.png"; path = "../src/assets/images/partial-react-logo.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C4932BE31C8A4C23AA7DA17D /* plus.png */ = {isa = PBXFileReference; name = "plus.png"; path = "../src/assets/images/plus.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1CCA5BF6DE8D4B4C84CA1D88 /* profile.png */ = {isa = PBXFileReference; name = "profile.png"; path = "../src/assets/images/profile.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		91E1237E73B64D27B1FE51F8 /* react-logo.png */ = {isa = PBXFileReference; name = "react-logo.png"; path = "../src/assets/images/react-logo.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0C104AA759A74930AB910716 /* react-logo@2x.png */ = {isa = PBXFileReference; name = "react-logo@2x.png"; path = "../src/assets/images/react-logo@2x.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1651312EB7584E7BBEAD8771 /* react-logo@3x.png */ = {isa = PBXFileReference; name = "react-logo@3x.png"; path = "../src/assets/images/react-logo@3x.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9CA1CE991D6C4029AE398D65 /* receive_money.png */ = {isa = PBXFileReference; name = "receive_money.png"; path = "../src/assets/images/receive_money.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		561F3A86302D48C19C899414 /* right_arrow.png */ = {isa = PBXFileReference; name = "right_arrow.png"; path = "../src/assets/images/right_arrow.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CC21CD43A2CE4D10BA5CB7A6 /* sanlam-allianz.png */ = {isa = PBXFileReference; name = "sanlam-allianz.png"; path = "../src/assets/images/sanlam-allianz.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1D987C1824D14D5792F0AA38 /* sanlamallianz.png */ = {isa = PBXFileReference; name = "sanlamallianz.png"; path = "../src/assets/images/sanlamallianz.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8EBA0EC9AC7447E4B0CCCD99 /* scan.png */ = {isa = PBXFileReference; name = "scan.png"; path = "../src/assets/images/scan.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CD90D3EE30794E149D007060 /* send_money.png */ = {isa = PBXFileReference; name = "send_money.png"; path = "../src/assets/images/send_money.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E08F5B0E69F046A28049FA44 /* splash-icon.png */ = {isa = PBXFileReference; name = "splash-icon.png"; path = "../src/assets/images/splash-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DE120B2F89A545209FC4D0B6 /* union.png */ = {isa = PBXFileReference; name = "union.png"; path = "../src/assets/images/union.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		157D5BB46233418EAAF579C3 /* splash.png */ = {isa = PBXFileReference; name = "splash.png"; path = "../src/assets/splash.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +183,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				BAA3518EF8C64FA0A4790BD6 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -115,6 +206,59 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		BAA3518EF8C64FA0A4790BD6 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				E44FC8ABEB534B4D84936D87 /* avenir-next-bold.ttf */,
+				E4459CF556E140049D4A4CAA /* avenir-next-demi.ttf */,
+				A2BD57FE06CC45CB89C02918 /* avenir-next-medium.ttf */,
+				946933D7208D46E080F01389 /* avenir-next-regular.ttf */,
+				03662E1880C643A19C6776CF /* GentiumBookBasic-Italic.ttf */,
+				7C5A5EA628954D9A91D3DC13 /* GreatVibes-Regular.ttf */,
+				BFA00A8D5E0B4698BA83977D /* Montserrat-Italic.ttf */,
+				D3DF1250E4C84755AF6E7FA6 /* SpaceMono-Regular.ttf */,
+				8013CE50697A4405A7860E71 /* Ubuntu-Medium.ttf */,
+				F43CFECD64E442E482B4158B /* adaptive-icon.png */,
+				CEBA7E44072A43B089208B70 /* favicon.png */,
+				54F9A8A707F54DD0AFBABCA3 /* icon.png */,
+				4C031E542EC9400EA9C3D29B /* avatar1.png */,
+				05CAADF08C8649039A7698B2 /* avatar2.png */,
+				445A371AB16548C0A27896D0 /* avatar3.png */,
+				7966D185E6C24954B178F881 /* avatar4.png */,
+				6474657F887F4E9AB208EF2C /* cashback_offer.png */,
+				4B7A1B90711847BDA6FE176E /* close.png */,
+				D1413CBC6ACF47DF8EAD78A7 /* cloud.png */,
+				564BC2E2F2164BB48497EAF7 /* color_bar.png */,
+				1E12D7CDFD2C43DDB9C45091 /* electricity_bill.png */,
+				196B2247E9A048E18131AC6F /* filter.png */,
+				3417DA5D67B04D2C82D8A492 /* flight_tickets.png */,
+				686B681867F140A0BD6E96C1 /* home.png */,
+				82D86DE2F7154D38AD8BDA2B /* logo.png */,
+				51297AA768CB4206B5C04F90 /* logout.png */,
+				942C3D75997E47E484ADFEF1 /* mobile_prepaid.png */,
+				573275F0860542CEB5087532 /* more_options.png */,
+				9BAA356BB434471FBA825D6D /* movie_tickets.png */,
+				4C9E0C0DEE654A78B96B5F31 /* musicoding.png */,
+				783610FCC8004661938D66C2 /* partial-react-logo.png */,
+				C4932BE31C8A4C23AA7DA17D /* plus.png */,
+				1CCA5BF6DE8D4B4C84CA1D88 /* profile.png */,
+				91E1237E73B64D27B1FE51F8 /* react-logo.png */,
+				0C104AA759A74930AB910716 /* react-logo@2x.png */,
+				1651312EB7584E7BBEAD8771 /* react-logo@3x.png */,
+				9CA1CE991D6C4029AE398D65 /* receive_money.png */,
+				561F3A86302D48C19C899414 /* right_arrow.png */,
+				CC21CD43A2CE4D10BA5CB7A6 /* sanlam-allianz.png */,
+				1D987C1824D14D5792F0AA38 /* sanlamallianz.png */,
+				8EBA0EC9AC7447E4B0CCCD99 /* scan.png */,
+				CD90D3EE30794E149D007060 /* send_money.png */,
+				E08F5B0E69F046A28049FA44 /* splash-icon.png */,
+				DE120B2F89A545209FC4D0B6 /* union.png */,
+				157D5BB46233418EAAF579C3 /* splash.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -185,6 +329,51 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				B132898EA321472184ACA29C /* avenir-next-bold.ttf in Resources */,
+				9D86A3EDD64B453DAC208E8A /* avenir-next-demi.ttf in Resources */,
+				06F0878A459F48BC9AF3A565 /* avenir-next-medium.ttf in Resources */,
+				DA4E876CE7834B3BBD412B41 /* avenir-next-regular.ttf in Resources */,
+				6A85FDE7EA5D468A84FD1B24 /* GentiumBookBasic-Italic.ttf in Resources */,
+				9682FC94FB6C4BAEB3576531 /* GreatVibes-Regular.ttf in Resources */,
+				B68AF24173764197AA249352 /* Montserrat-Italic.ttf in Resources */,
+				0593CB8BD3F9457D85721E65 /* SpaceMono-Regular.ttf in Resources */,
+				926580BB22CF4E4E84993372 /* Ubuntu-Medium.ttf in Resources */,
+				3CFDABAA6D8D44EA98E4BDAD /* adaptive-icon.png in Resources */,
+				F38791FE33524F028E5BA0A4 /* favicon.png in Resources */,
+				F919C7AFA7CA429B890E5C94 /* icon.png in Resources */,
+				60D9D3FE2A84441F9F067936 /* avatar1.png in Resources */,
+				F534325AEEBF4D7C8ADBC65C /* avatar2.png in Resources */,
+				62A89233CE35475790BA35DB /* avatar3.png in Resources */,
+				A8C1DF68A2B34D07AF087620 /* avatar4.png in Resources */,
+				7CDCE6238DB84DF9A5941167 /* cashback_offer.png in Resources */,
+				5855364EC4164960BAF664B3 /* close.png in Resources */,
+				9483EA0C97274AAEA96E0D3F /* cloud.png in Resources */,
+				EFD9319FD5E64DCBADF43A34 /* color_bar.png in Resources */,
+				472A1C105C7F44CAA4736829 /* electricity_bill.png in Resources */,
+				D1E969F8AF1A41CBA3B8F143 /* filter.png in Resources */,
+				0AEE8CAD254B430586560BDD /* flight_tickets.png in Resources */,
+				0364DC92DDC646C3AE7557A3 /* home.png in Resources */,
+				E9BC86A831EF4C2EA309337C /* logo.png in Resources */,
+				B6280C9F9FC14C9C9EB1D576 /* logout.png in Resources */,
+				648CF22BC6564A9B8923345B /* mobile_prepaid.png in Resources */,
+				510D1CAA90344F829440A008 /* more_options.png in Resources */,
+				AE463A6435C04A5282089FE2 /* movie_tickets.png in Resources */,
+				71AAFE062B8B4D3D82B32188 /* musicoding.png in Resources */,
+				7E774996C2924306BBBEEBE5 /* partial-react-logo.png in Resources */,
+				1D13381B21554273B071E8C8 /* plus.png in Resources */,
+				38DA06B86CF8424080D80962 /* profile.png in Resources */,
+				132E70B098744C99BD32643D /* react-logo.png in Resources */,
+				752B8C454E4C414D8FB98EEC /* react-logo@2x.png in Resources */,
+				5CAC490F2820488D9A7D2901 /* react-logo@3x.png in Resources */,
+				D4274075521F4158A41A473F /* receive_money.png in Resources */,
+				F267F2538A414D51A9C240F1 /* right_arrow.png in Resources */,
+				48153C9020F14A01987F2004 /* sanlam-allianz.png in Resources */,
+				769071686A784848B7F172EE /* sanlamallianz.png in Resources */,
+				2CDEB04140E445A29BFD9288 /* scan.png in Resources */,
+				C8F80FE71D0E485EB1575220 /* send_money.png in Resources */,
+				9B3AA1B6A54B4F56AF9CA109 /* splash-icon.png in Resources */,
+				D27AAD8EEEE84C558770B642 /* union.png in Resources */,
+				212D92157E72473F998DED85 /* splash.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,185 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/adaptive-icon.png",
+      "sha1": "19b53640a95efdc2ccc7fc20f3ea4d0d381bb5c4"
+    },
+    {
+      "path": "src/assets/favicon.png",
+      "sha1": "cb25ca74ddc488c91522b0ae68fc846fac7f4174"
+    },
+    {
+      "path": "src/assets/fonts/avenir-next-bold.ttf",
+      "sha1": "ebefb35f863d974e2dd89af9eff3444a47a6d888"
+    },
+    {
+      "path": "src/assets/fonts/avenir-next-demi.ttf",
+      "sha1": "c7c3724950c27ff639778fc176b69ecd62b9ef16"
+    },
+    {
+      "path": "src/assets/fonts/avenir-next-medium.ttf",
+      "sha1": "51a58b69142527496e68bc6aa3e19f82bc17e16d"
+    },
+    {
+      "path": "src/assets/fonts/avenir-next-regular.ttf",
+      "sha1": "4d801db12fee00f6d26c5a10dcb92639333df89c"
+    },
+    {
+      "path": "src/assets/fonts/GentiumBookBasic-Italic.ttf",
+      "sha1": "79500aeb9ed94fd9ed554e98230bd0caacb76deb"
+    },
+    {
+      "path": "src/assets/fonts/GreatVibes-Regular.ttf",
+      "sha1": "731b4cb1943ef27119103ea4774af7685c09b158"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "798c701450f6bc08217f73c1ac569100cddc2947"
+    },
+    {
+      "path": "src/assets/fonts/SpaceMono-Regular.ttf",
+      "sha1": "fae3a5a43b50e0408fd61e14383d94a023d332b0"
+    },
+    {
+      "path": "src/assets/fonts/Ubuntu-Medium.ttf",
+      "sha1": "8f9552f4661c80d13082dbf72a38ab4585d0b8a9"
+    },
+    {
+      "path": "src/assets/icon.png",
+      "sha1": "3f71f5a8458c06b83424cc33e1f2481f601199ea"
+    },
+    {
+      "path": "src/assets/images/avatar1.png",
+      "sha1": "cbcfb233de46d2fa07e54f4cf5c5e092a0747593"
+    },
+    {
+      "path": "src/assets/images/avatar2.png",
+      "sha1": "0595c07d59e626d22bfe1b50ef147c2855a973ce"
+    },
+    {
+      "path": "src/assets/images/avatar3.png",
+      "sha1": "ffe8c1b8df065acb7147fa9ca38f7ad76ac0c8e3"
+    },
+    {
+      "path": "src/assets/images/avatar4.png",
+      "sha1": "0d47bafee2a7aa759d65cd9bb1225b251ad4acce"
+    },
+    {
+      "path": "src/assets/images/cashback_offer.png",
+      "sha1": "abd706c200a00e41c48db4bd841fc5f0c6a0d5a1"
+    },
+    {
+      "path": "src/assets/images/close.png",
+      "sha1": "279a37f042daa03ae99c7bce7d0b1d96c356e654"
+    },
+    {
+      "path": "src/assets/images/cloud.png",
+      "sha1": "55ac7b34d436c034831212cb7bd576b8daacdb4e"
+    },
+    {
+      "path": "src/assets/images/color_bar.png",
+      "sha1": "84315f08d4ed019aa840ed2c7c5f0da081f26af7"
+    },
+    {
+      "path": "src/assets/images/electricity_bill.png",
+      "sha1": "2ad2d4f640ff6628adf424c23fa1b0614696d124"
+    },
+    {
+      "path": "src/assets/images/filter.png",
+      "sha1": "d84bd340da72604985705ae3765354ab2abb1eaf"
+    },
+    {
+      "path": "src/assets/images/flight_tickets.png",
+      "sha1": "7f1ee1398eddde127c092046b053b35564a49f5d"
+    },
+    {
+      "path": "src/assets/images/home.png",
+      "sha1": "959961205292e2d5feeff531bb8e5ca67fe58121"
+    },
+    {
+      "path": "src/assets/images/logo.png",
+      "sha1": "1a745bb8791e4e1ab3af90badaa58ad334151cb4"
+    },
+    {
+      "path": "src/assets/images/logout.png",
+      "sha1": "bb6223240ad08c549f9b3f8c9353303036e3ce12"
+    },
+    {
+      "path": "src/assets/images/mobile_prepaid.png",
+      "sha1": "a5591d8e35bfb613b6f33bf3de37ace9338a70c2"
+    },
+    {
+      "path": "src/assets/images/more_options.png",
+      "sha1": "d88daf2b6c6346cca732dc9e393d8cf0e4fe45d7"
+    },
+    {
+      "path": "src/assets/images/movie_tickets.png",
+      "sha1": "84754083881f354f0832b5f1e19a025d55d918e2"
+    },
+    {
+      "path": "src/assets/images/musicoding.png",
+      "sha1": "2b23e3d966a88a79ce58677cee941d0b0411cd97"
+    },
+    {
+      "path": "src/assets/images/partial-react-logo.png",
+      "sha1": "0d7cb3af15a5b94c520596c096fa91bb1bf093eb"
+    },
+    {
+      "path": "src/assets/images/plus.png",
+      "sha1": "f5f0e587bf293f7543d740a1973e93afdda81cf3"
+    },
+    {
+      "path": "src/assets/images/profile.png",
+      "sha1": "8b4db8988720d987478cd53f41f6d421f5cf78e9"
+    },
+    {
+      "path": "src/assets/images/react-logo.png",
+      "sha1": "12f26a17774074ea98dd68ae1e531a9c7fa4e065"
+    },
+    {
+      "path": "src/assets/images/react-logo@2x.png",
+      "sha1": "9ed9f21bcd6d668be169753fc45091b795947731"
+    },
+    {
+      "path": "src/assets/images/react-logo@3x.png",
+      "sha1": "e5e7d9925fe3fda42b14a8378e54aea8338d6c0c"
+    },
+    {
+      "path": "src/assets/images/receive_money.png",
+      "sha1": "e36f242f0c2933801049f91411868a00d9091530"
+    },
+    {
+      "path": "src/assets/images/right_arrow.png",
+      "sha1": "8477402f70bed77b2fabb11ecfefe493d156bfbf"
+    },
+    {
+      "path": "src/assets/images/sanlam-allianz.png",
+      "sha1": "1a745bb8791e4e1ab3af90badaa58ad334151cb4"
+    },
+    {
+      "path": "src/assets/images/sanlamallianz.png",
+      "sha1": "1f5df8ff4c572b9b1b08abe51ad77eb70c0e5600"
+    },
+    {
+      "path": "src/assets/images/scan.png",
+      "sha1": "a45329938ac50f7d3d09f3b33b9ac8b0cbb413f5"
+    },
+    {
+      "path": "src/assets/images/send_money.png",
+      "sha1": "6a8d771f3fb706b978c90410c222c402b6f668b3"
+    },
+    {
+      "path": "src/assets/images/splash-icon.png",
+      "sha1": "19b53640a95efdc2ccc7fc20f3ea4d0d381bb5c4"
+    },
+    {
+      "path": "src/assets/images/union.png",
+      "sha1": "34e6d4e2aa2314e405c94159d05f38ac4b0cb6c6"
+    },
+    {
+      "path": "src/assets/splash.png",
+      "sha1": "5be4c92f9917e5ef4ff518e84277aaf03399420b"
+    }
+  ]
+}
